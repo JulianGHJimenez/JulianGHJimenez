@@ -1,9 +1,9 @@
 <h1 align="center">👋 Julián Gabriel Hernández Jiménez</h1>
 <h3 align="center">💻 Desarrollador de Software</h3>
 
-<p align="center">
+<!--<p align="center">
   <img src="perfil.jpg" width=300 />
-</p> 
+</p>--> 
 
 <p align="center">
 🧼 Clean Code • 🌱 Open Source • ❤️ Tech Lover
