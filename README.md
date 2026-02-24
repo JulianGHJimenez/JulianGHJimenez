@@ -1,19 +1,19 @@
 <h1 align="center">👋 Julián Gabriel Hernández Jiménez</h1>
 <h3 align="center">💻 Desarrollador de Software</h3>
 
-<!-- <p align="center">
+<p align="center">
   <img src="perfil.jpg" width=300 />
-</p> --->
+</p> 
 
 <p align="center">
 🧼 Clean Code • 🌱 Open Source • ❤️ Tech Lover
 </p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/TU_PERFIL">
+  <a href="https://linkedin.com/in/julián-gabriel-hernández-jiménez">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="mailto:juliangabrielhj@gmail.com">
+  <a href="mailto:julianghernandezj@gmail.com">
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   <a href="https://github.com/JulianGHJimenez">
@@ -109,8 +109,8 @@ Panel interactivo de visualización de datos.
 
 <p align="center">
 
-💼 LinkedIn — https://linkedin.com/in/TU_PERFIL  
-📧 Email — juliangabrielhj@gmail.com  
+💼 LinkedIn — https://linkedin.com/in/julián-gabriel-hernández-jiménez  
+📧 Email — julianghernandezj@gmail.com  
 🌐 Portfolio — https://TU_WEB  
 
 </p>
