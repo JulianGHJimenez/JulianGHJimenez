@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/julián-gabriel-hernández-jiménez">
+  <a href="https://linkedin.com/in/julián-gabriel-hernández-jiménez-96431b3b3">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:julianghernandezj@gmail.com">
@@ -109,7 +109,7 @@ Panel interactivo de visualización de datos.
 
 <p align="center">
 
-💼 LinkedIn — https://linkedin.com/in/julián-gabriel-hernández-jiménez  
+💼 LinkedIn — https://linkedin.com/in/julián-gabriel-hernández-jiménez-96431b3b3  
 📧 Email — julianghernandezj@gmail.com  
 🌐 Portfolio — https://TU_WEB  
 
