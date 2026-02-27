@@ -99,7 +99,7 @@ Panel interactivo de visualización de datos.
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JulinGHJimenez&show_icons=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=JulianGHJimenez&show_icons=true" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JulianGHJimenez&layout=compact" />
 </p>
 
