@@ -111,7 +111,7 @@ Panel interactivo de visualización de datos.
 
 💼 LinkedIn — https://linkedin.com/in/julián-gabriel-hernández-jiménez-96431b3b3  
 📧 Email — julianghernandezj@gmail.com  
-🌐 Portfolio — https://TU_WEB  
+🌐 Portfolio — https://JulianGHJimenez.github.io 
 
 </p>
 
